@@ -1,4 +1,4 @@
-package me.snajdovski.quotes.ui
+package me.snajdovski.quotes.ui.quotes
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
