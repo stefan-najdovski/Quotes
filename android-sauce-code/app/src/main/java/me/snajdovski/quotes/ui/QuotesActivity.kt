@@ -1,7 +1,8 @@
-package me.snajdovski.quotes
+package me.snajdovski.quotes.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import me.snajdovski.quotes.R
 
 class QuotesActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
